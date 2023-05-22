@@ -4,7 +4,7 @@ import Swiper from './core/core.js';
 //IMPORT_MODULES
 
 const modules = [
-  //INSTALL_MODULES
+    //INSTALL_MODULES
 ];
 
 Swiper.use(modules);

@@ -9,13 +9,13 @@ import updateActiveIndex from './updateActiveIndex.js';
 import updateClickedSlide from './updateClickedSlide.js';
 
 export default {
-  updateSize,
-  updateSlides,
-  updateAutoHeight,
-  updateSlidesOffset,
-  updateSlidesProgress,
-  updateProgress,
-  updateSlidesClasses,
-  updateActiveIndex,
-  updateClickedSlide,
+    updateSize,
+    updateSlides,
+    updateAutoHeight,
+    updateSlidesOffset,
+    updateSlidesProgress,
+    updateProgress,
+    updateSlidesClasses,
+    updateActiveIndex,
+    updateClickedSlide,
 };

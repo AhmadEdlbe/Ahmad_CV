@@ -3,7 +3,7 @@ import transitionStart from './transitionStart.js';
 import transitionEnd from './transitionEnd.js';
 
 export default {
-  setTransition,
-  transitionStart,
-  transitionEnd,
+    setTransition,
+    transitionStart,
+    transitionEnd,
 };

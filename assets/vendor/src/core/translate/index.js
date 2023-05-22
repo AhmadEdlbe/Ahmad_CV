@@ -5,9 +5,9 @@ import maxTranslate from './maxTranslate.js';
 import translateTo from './translateTo.js';
 
 export default {
-  getTranslate,
-  setTranslate,
-  minTranslate,
-  maxTranslate,
-  translateTo,
+    getTranslate,
+    setTranslate,
+    minTranslate,
+    maxTranslate,
+    translateTo,
 };
